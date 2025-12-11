@@ -1360,7 +1360,7 @@ INLINE void update_phase_lfo_channel(FM_CH *CH)
 INLINE void refresh_fc_eg_slot(FM_SLOT *SLOT , unsigned int fc , unsigned int kc )
 {
   /* let me make magic*/
-  fc = (unsigned int)(fc * 0.92);
+  fc = (unsigned int)(fc * 0.82);
 
   /* add detune value */
   fc += SLOT->DT[kc];
@@ -2261,3 +2261,4 @@ int YM2612SaveContext(unsigned char *state)
 
   return bufferptr;
 }
+
