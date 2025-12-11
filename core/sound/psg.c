@@ -44,10 +44,10 @@
 #include "blip_buf.h"
 
 /* internal clock = input clock : 16 = (master clock : 15) : 16 */
-#define PSG_MCYCLES_RATIO (15*16)
+#define PSG_MCYCLES_RATIO (260)
 
 /* maximal channel output (roughly adjusted to match VA4 MD1 PSG/FM balance with 1.5x amplification of PSG output) */
-#define PSG_MAX_VOLUME 2800
+#define PSG_MAX_VOLUME 4500
 
 static const uint8 noiseShiftWidth[2] = {14,15};
 
