@@ -19,7 +19,7 @@ The core engine, G-Flat Singularity technology, artificially distorts the freque
   * The frequency bandwidth of the YM2612 chipset has been forcibly expanded by 1.15x. This isn't simply a higher sound quality; it's a psychoacoustic design that makes the music sound faster than it actually is, creating a sense of speed for the player.
 
 * A Work of Art Shining with Dissonance
-  * FM audio has been improved by 15%, and PSG audio by 5%. This 10% **harmonic dissonance** creates a subtle dissonance, creating a luxurious sense of tension for the user.
+  * FM audio has been lowered by 18%, and PSG audio by 5%.(PLS) This 12% **harmonic dissonance** creates a subtle dissonance, creating a luxurious sense of tension for the user.
 
 # 3. Development Philosophy
 > Is accuracy truly the only answer?
@@ -63,7 +63,7 @@ AtGenesis는 기존의 에뮬레이터가 추구하던 **정확성**이라는 �
   * YM2612 칩셋의 주파수 대역을 1.15배 강제 확장했습니다. 이는 단순히 소리가 높은 것이 아니라, 실제보다 음악이 더 급하게 연주됨으로써 플레이어의 빠르다고 느끼게 만드는 심리 음향학적 설계입니다.
 
 * 불협화음으로 빛어낸 작품
-  * FM 음원은 15%, PSG 음원은 5% 상향되었습니다. 이 10%의 **고조파 불일치**가 미묘한 불협화음을 발생시켜, 사용자에게 고급스러운 긴장감을 선사합니다.
+  * FM 음원은 18%, PSG 음원은 5% 하향되었습니다.(제발) 이 12%의 **고조파 불일치**가 미묘한 불협화음을 발생시켜, 사용자에게 고급스러운 긴장감을 선사합니다.
  
 # 3. 개발 철학
 > 과연 정확성만이 정답일까?
