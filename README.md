@@ -1,10 +1,47 @@
 <img width="1024" height="299" alt="image" src="https://github.com/user-attachments/assets/a71797bd-e789-4975-8444-5055268826b2" />
 
+# 1. Outline
+
 AtGenesis is an experimental Genesis Plus GX port that boldly challenges the antiquated paradigm of "Accuracy" that has long dominated the emulation scene.
 
 We refuse to emulate the pristine 1988 Sega Genesis Model 1 hardware. Instead, we have digitally transplanted the unstable soul of the low-cost SoC (System on Chip) clone consoles that flooded discount stores and drugstores in the 2010s.
 
 The ultimate goal of this project is "Perfectly Simulated Malfunction." By achieving this, we aim to provide the user with a profound sense of Cognitive Dissonance, simultaneously evoking feelings of deep nostalgia and mild physical discomfort.
+
+# 2. Architecture and technical specifications
+This core isn't just a bunch of bugs. It's meticulously designed according to the **standard defect specification**, established by collecting data from countless defective devices.
+
+## 2.1. Auditory Expansion Theory
+
+The core engine, G-Flat Singularity technology, artificially distorts the frequency of FM audio sources.
+
+* Higher Sound
+  * The frequency bandwidth of the YM2612 chipset has been forcibly expanded by 1.15x. This isn't simply a higher sound quality; it's a psychoacoustic design that makes the music sound faster than it actually is, creating a sense of speed for the player.
+
+* A Work of Art Shining with Dissonance
+  * FM audio has been improved by 15%, and PSG audio by 5%. This 10% **harmonic dissonance** creates a subtle dissonance, creating a luxurious sense of tension for the user.
+
+# 3. Development Philosophy
+> Is accuracy truly the only answer?
+Existing emulators claim to be **exactly like the real thing**. However, the real thing we all remember was the **strange counterfeit game console** our parents bought us.
+
+This core **restores** that **faulty memory with the right technology**. Is the sound crackling, the pitch off, and the screen dull? Congratulations. You've now reached the **idea of ​​emulation**.
+
+# 4. Frequently Asked Questions
+Q. The sound is so loud it hurts my ears. Is this a bug?<br>A. It's a **feature**. Earaches are evidence that your hearing has become vulnerable to overly clean digital sound. Don't turn down the volume; enjoy the pain.
+
+Q. Can I modify this core to **normalize** the sound?<br>A. It's possible. However, that would be artistically insulting, like looking at a Picasso painting and saying, "The eyes are in the wrong place."
+###### And if that's the case, use the original instead.
+
+# 5. License and Disclaimer
+
+This core is not provided **As-Is** and is intentionally broken.
+
+Users agree not to hold the developer responsible for any auditory trauma, headaches, or existential doubts that may arise from using this core.
+
+The original core is provided by ekeeke.
+
+
 
 # 1. 개요
 
@@ -28,19 +65,19 @@ AtGenesis는 기존의 에뮬레이터가 추구하던 **정확성**이라는 �
 * 불협화음으로 빛어낸 작품
   * FM 음원은 15%, PSG 음원은 5% 상향되었습니다. 이 10%의 **고조파 불일치**가 미묘한 불협화음을 발생시켜, 사용자에게 고급스러운 긴장감을 선사합니다.
  
-# 4. 개발 철학
+# 3. 개발 철학
 > 과연 정확성만이 정답일까?
 기존 에뮬레이터들은 **실기와 똑같음**을 주장합니다. 하지만 우리 모두의 기억 속에 있는 실기는, 부모님이 사주셨던 **어딘가 이상한 짝퉁 게임기**였습니다.
 
 이 코어는 그 **잘못된 기억을 올바른 기술로 복원**한 것입니다. 소리가 찢어지고, 음정이 안 맞고, 화면이 칙칙합니까? 축하합니다. 당신은 지금 **에뮬레이션의 이데아**에 도달했습니다.
 
-# 5. 자주 묻는 질문
+# 4. 자주 묻는 질문
 Q. 소리가  높아서 귀가 아파요. 버그인가요?<br>A. **기능**입니다. 귀가 아픈 것은 당신의 청각 기관이 너무 깨끗한 디지털 사운드에 나약해졌다는 증거입니다. 볼륨을 줄이지 말고 고통을 즐기십시오.
 
 Q. 이 코어를 수정해서 **소리를 정상으로** 돌려도 되나요?<br>A. 가능은 합니다. 하지만 그것은 피카소의 그림을 보고 "눈 위치가 틀렸네"라며 수정하는 것과 같은 예술적 모독입니다.
 ###### 그리고 그럴거면 이거 말고 원본을 쓰십시오.
 
-# 6. 라이선스 및 면책 조항
+# 5. 라이선스 및 면책 조항
 
 이 코어는 **있는 그대로(As-Is)** 제공되지 않으며, 의도적으로 망가진 상태로 제공됩니다.
 
