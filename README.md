@@ -1,3 +1,5 @@
+<img width="1024" height="299" alt="image" src="https://github.com/user-attachments/assets/a71797bd-e789-4975-8444-5055268826b2" />
+
 AtGenesis is an experimental Genesis Plus GX port that boldly challenges the antiquated paradigm of "Accuracy" that has long dominated the emulation scene.
 
 We refuse to emulate the pristine 1988 Sega Genesis Model 1 hardware. Instead, we have digitally transplanted the unstable soul of the low-cost SoC (System on Chip) clone consoles that flooded discount stores and drugstores in the 2010s.
