@@ -907,7 +907,7 @@ static void config_default(void)
    int i;
    
    /* ============================================================
-    * AtGenesis-BETA: AtGames / Clone Genesis Style Defaults
+    * AtGenesis-ADVANCED: AtGames / Clone Genesis Style Defaults
     * Emulates the characteristic sound of AtGames Mega Drive
     * and knockoff/clone Genesis consoles.
     * Features: YM3438 ASIC chip, muffled audio, weak high freq,
@@ -2930,7 +2930,7 @@ void retro_set_input_state(retro_input_state_t cb) { input_state_cb = cb; }
 
 void retro_get_system_info(struct retro_system_info *info)
 {
-   info->library_name = "AtGenesis-BETA";
+   info->library_name = "AtGenesis ADVANCED";
 #ifndef GIT_VERSION
 #define GIT_VERSION ""
 #endif
